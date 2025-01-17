@@ -1,0 +1,9 @@
+pandas>=1.0.0,!=2.1.0
+numpy>=1.24.0
+torch==2.1.0
+scikit-learn>=1.0.0
+matplotlib>=3.0.0
+mplfinance==0.12.10b0
+pandas-ta>=0.3.0
+statsmodels>=0.14.0
+typing-extensions>=4.0.0 
